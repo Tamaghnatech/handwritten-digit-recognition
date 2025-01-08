@@ -90,7 +90,7 @@ The digit recognition process involves the following steps:
 ## Example Results
 | Prediction Example | Training Accuracy |
 |--------------------|-------------------|
-| ![Example Image](images/example_prediction.png) | ![Training Graph](images/example_accuracy.png) |
+| ![Example Image](images/res.png) | ![Training Graph](acc.png) |
 
 ---
 
