@@ -88,9 +88,17 @@ The digit recognition process involves the following steps:
 ---
 
 ## Example Results
-| Prediction Example | Training Accuracy |
-|--------------------|-------------------|
-| ![Example Image](images/res.png) | ![Training Graph](acc.png) |
+
+### Prediction Example
+Below is an example of the handwritten digit recognition process:
+
+![Example Image](images/res.png)
+
+### Training Accuracy
+The model achieved the following training accuracy:
+
+![Training Graph](images/acc.png)
+
 
 ---
 
