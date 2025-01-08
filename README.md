@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition Project
 
-![Digit Recognition Process](images/model.png)
+![Digit Recognition Process](model.png)
 
 This project implements a Convolutional Neural Network (CNN) to recognize handwritten digits using the MNIST dataset. It also provides a simple interface for users to upload an image or capture one via webcam (optional, if permissions allow) to identify handwritten digits.
 
